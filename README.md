@@ -9,7 +9,7 @@
 - Modify preferential attachment model to penalize the age of a node in large random graph.
 - Implemente random walk on large random network to simulate Google’s PageRank algorithm.
 
-## [Project 2: ](https://github.com/Qiong-Hu/Large-Scale_Social_and_Complex_Networks/tree/master/Project2)
+## [Project 2: Social Network Mining](https://github.com/Qiong-Hu/Large-Scale_Social_and_Complex_Networks/tree/master/Project2)
 
 ### Content
 
@@ -18,4 +18,13 @@
 - Explore characteristics of nodes in the personalized networks using Embeddedness and Dispersion.
 - Implement friend recommendation in personalized networks using neighborhood-based measures, including common neighbor measure, Jaccard measure, and Adamic-Adar measure, and evaluate with average accuracy measure.
 - Explore the community structure of directed social network (Google+ dataset), defined by homogeneity and completeness.
+
+## [Project 3: Reinforcement Learning (RL) and Inverse Reinforcement Learning (IRL)](https://github.com/Qiong-Hu/Large-Scale_Social_and_Complex_Networks/tree/master/Project3)
+
+### Content
+
+- Model the environment of the agent by Markov Decision Process (MDP).
+- Implement value iteration algorithm of Reinforcement Learning (RL).
+- Implement the IRL algorithm using Linear Programming (LP) formulation.
+- Evaluate the performance of IRL algorithm by comparing the extracted reward function and optimal policy map with ground truth.
 
