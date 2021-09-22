@@ -32,4 +32,7 @@
 
 ### Content
 
-- 
+- Construct a correlation graph using correlation coefficient computed among stock-return time series data.
+- Extract the Minimum Spanning Tree (MST) of the correlation graph and interpret it.
+- Predict the market sector of an unknown stock, and evaluate the performance using sector clustering in MST.
+- Simulate the influence of traffic block on the flow between certain places, and estimate how many roads could be blocked before paralyzing the traffic in Los Angeles area.
