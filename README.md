@@ -28,7 +28,7 @@
 - Implement the IRL algorithm using Linear Programming (LP) formulation.
 - Evaluate the performance of IRL algorithm by comparing the extracted reward function and optimal policy map with ground truth.
 
-## [Project 4: Graph Theory Theorems and Algorithms](https://github.com/Qiong-Hu/Large-Scale_Social_and_Complex_Networks/tree/master/Project4)
+## [Project 4: Graph Theory and Algorithms](https://github.com/Qiong-Hu/Large-Scale_Social_and_Complex_Networks/tree/master/Project4)
 
 ### Content
 

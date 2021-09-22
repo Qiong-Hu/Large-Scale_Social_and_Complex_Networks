@@ -1,4 +1,4 @@
-# Project 4: Graph Theory Theorems and Algorithms
+# Project 4: Graph Theory and Algorithms
 
 Main code: [Jupyter notebooks](https://github.com/Qiong-Hu/Large-Scale_Social_and_Complex_Networks/tree/master/Project4/script)
 
